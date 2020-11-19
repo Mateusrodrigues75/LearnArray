@@ -1,0 +1,13 @@
+C:\Users\mrodr\Documents\C#\LearnArray\bin\Debug\netcoreapp3.1\LearnArray.exe
+C:\Users\mrodr\Documents\C#\LearnArray\bin\Debug\netcoreapp3.1\LearnArray.deps.json
+C:\Users\mrodr\Documents\C#\LearnArray\bin\Debug\netcoreapp3.1\LearnArray.runtimeconfig.json
+C:\Users\mrodr\Documents\C#\LearnArray\bin\Debug\netcoreapp3.1\LearnArray.runtimeconfig.dev.json
+C:\Users\mrodr\Documents\C#\LearnArray\bin\Debug\netcoreapp3.1\LearnArray.dll
+C:\Users\mrodr\Documents\C#\LearnArray\bin\Debug\netcoreapp3.1\LearnArray.pdb
+C:\Users\mrodr\Documents\C#\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.csprojAssemblyReference.cache
+C:\Users\mrodr\Documents\C#\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.AssemblyInfoInputs.cache
+C:\Users\mrodr\Documents\C#\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.AssemblyInfo.cs
+C:\Users\mrodr\Documents\C#\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.csproj.CoreCompileInputs.cache
+C:\Users\mrodr\Documents\C#\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.dll
+C:\Users\mrodr\Documents\C#\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.pdb
+C:\Users\mrodr\Documents\C#\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.genruntimeconfig.cache
